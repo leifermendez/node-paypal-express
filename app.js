@@ -118,7 +118,7 @@ const createPlan = (req, res) => {
                 total_cycles: 12,
                 pricing_scheme: {
                     fixed_price: {
-                        value: "3", // PRECIO MENSUAL QUE COBRAS
+                        value: "3", // PRECIO MENSUAL QUE COBRAS 3.30USD
                         currency_code: "USD"
                     }
                 }
